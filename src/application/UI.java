@@ -20,7 +20,7 @@ public class UI {
             System.out.print("_");
         }
         else {
-            System.out.print(chessPiece );
+            System.out.print(chessPiece);
         }
         System.out.print(" ");
     }
